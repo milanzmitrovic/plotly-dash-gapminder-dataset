@@ -17,4 +17,8 @@
 
     - Do quick exploratory analysis of dataset
     - Practice making dash apps
+    
+## Using this [link](https://github.com/milanzmitrovic/plotly-dash-gapminder-dataset/blob/main/imgs/Dash_app_show.pdf) we can see how app looks.
+
+https://github.com/milanzmitrovic/plotly-dash-gapminder-dataset/blob/main/imgs/Dash_app_show.pdf
 
