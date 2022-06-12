@@ -20,7 +20,7 @@
     - App has been created entirely just in less than 2 hours. 
     - Dash-Plotly framework offers developers with huge productivity features!
     
-## Here we can see how app looks.
+## Here we can see how app looks
 
 ![alt text](https://github.com/milanzmitrovic/plotly-dash-gapminder-dataset/blob/main/imgs/Dash_app_show-1.png)
 
