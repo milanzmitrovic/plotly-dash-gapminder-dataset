@@ -23,3 +23,5 @@
 ## Using this [LINK](https://github.com/milanzmitrovic/plotly-dash-gapminder-dataset/blob/main/imgs/Dash_app_show.pdf) we can see how app looks.
 
 
+![alt text](https://github.com/milanzmitrovic/plotly-dash-gapminder-dataset/blob/main/imgs/Dash_app_show-1.png)
+
